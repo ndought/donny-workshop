@@ -1,0 +1,23 @@
+{
+  "name": "donny-workshop",
+  "version": "1.0.0",
+  "description": "node.js workshop",
+  "main": "index.js",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndought/donny-workshop.git"
+  },
+  "author": "noah doughty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndought/donny-workshop/issues"
+  },
+  "homepage": "https://github.com/ndought/donny-workshop#readme"
+}
